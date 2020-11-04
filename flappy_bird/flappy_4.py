@@ -1,5 +1,4 @@
-#Created by Adam Prus-Czarnecki based on Flappy Bird
-#version 2.0: February 9, 2014
+
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
